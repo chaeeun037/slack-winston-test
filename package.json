@@ -1,0 +1,23 @@
+{
+  "name": "slack-winston-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaeeun037/slack-winston-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaeeun037/slack-winston-test/issues"
+  },
+  "homepage": "https://github.com/chaeeun037/slack-winston-test#readme",
+  "dependencies": {
+    "slack-winston": "0.0.9",
+    "winston": "^2.4.0"
+  }
+}
